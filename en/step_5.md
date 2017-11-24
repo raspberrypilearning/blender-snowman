@@ -38,7 +38,7 @@ You'll see arcs or little curves that you can use to manipulate and shape the no
 
 ![Rotate the nose](images/blender-rotate-nose-tool.png)
 
-Select the curve (red, blue or green) that will allow you to rotate in the proper direction and use that curve to rotate the nose. For example:
+Use the curve (red, blue or green) that will allow you to rotate in the direction you want to rotate the nose. For example:
 
 ![Rotate the nose](images/blender-rotate-cone-1.png)
 
