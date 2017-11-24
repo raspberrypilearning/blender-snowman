@@ -6,7 +6,7 @@ Now we need a head for the snowman. Let's add another UV sphere.
 
 Another UV sphere has been added to your 3D scene but you might not be able to see it. This is because the second UV sphere was added inside the snowman's bottom, so we need to drag it out.
 
-+ Select the arrow ends, move tool from the menu below.
++ Select the arrow ends (move tool) from the menu below.
 
 ![Arrow ends](images/blender-handles-menu-1.png)
 
