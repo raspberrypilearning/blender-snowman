@@ -1,6 +1,6 @@
 ## Introduction
 
-Build a 3D model of a snowman using Blender.
+Create a 3D model of a snowman using Blender!
 
 ### What you will make
 
@@ -13,7 +13,7 @@ Here is how your finished piece will look:
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
++ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}.
 
 ### Additional information for educators
 
@@ -21,7 +21,7 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
-If you prefer, you can watch the whole resource as a video tutorial
+If you prefer, you can watch the whole resource as a video tutorial:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DQDvAt2mEew?rel=0" frameborder="0" allowfullscreen></iframe>
 
