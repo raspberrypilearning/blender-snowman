@@ -1,6 +1,6 @@
 title: Snowman
 hero_image: images/banner.png
-description: Build a 3D model of a snowman using Blender.
+description: Build a 3D model of a snowman using Blender
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 # possible values: 1, 2 or 3
 listed: false
@@ -17,4 +17,4 @@ steps:
   - title: "Snowman's head"
   - title: "Snowman's nose"
   - title: "Snowman's hat"
-  - title: "Challenge: eyes, arms and buttons"
+  - title: "Challenge: eyes, arms, and buttons"
