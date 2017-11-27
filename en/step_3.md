@@ -1,28 +1,30 @@
 ## Snowman's bottom
 
-+ For this tutorial we won't be needing the Splash screen. Click to the right and the Splash screen will disappear.
++ Open Blender.
 
-To create a snowman we won't be needing a cube. Instead we need to add a ball or sphere.
++ For this tutorial we won't be needing the splash screen, so click to the right and the splash screen will disappear.
 
-+ Remove the cube by selecting the cube, pressing <kbd>X</kbd> and then pressing <kbd>ENTER</kbd>.
+To create a snowman, we won't be needing a cube. Instead we need to add a ball or sphere.
+
++ Remove the cube by selecting the cube, pressing <kbd>X</kbd>, and then pressing <kbd>Enter</kbd>.
 
 ![Remove cube](images/remove-cube.png)
 
 Now we need to add a sphere.
 
-+ On the left hand panel, go to the Toolbox. Select the **Create** tab, then select **UV Sphere**.
++ On the left-hand panel, go to the **Toolbox**. Select the **Create** tab, then select **UV Sphere**.
 
 ![UV Sphere](images/uv-sphere.png)
 
-By adding the UV Sphere we have created a nice round bottom for the snowman.
+By adding the UV Sphere, we have created a nice round bottom for the snowman.
 
-+ To see what it looks like press <kbd>F12</kbd> (or if you're working on a Mac, <kbd>FN + F12</kbd>).
++ To see what it looks like, press <kbd>F12</kbd> (or if you're working on a Mac, <kbd>FN + F12</kbd>) to render your image.
 
 The snowman's bottom looks a bit too small, so let's resize the UV sphere.
 
-+ Press ESC to exit the view.
++ Press <kbd>ESC</kbd> to exit the render view.
 
-+ Make sure the ball is selected, then use the blue, green and red handles to resize the UV sphere. For this we need to use the cube ends (the resize tool) instead of the arrow ends (the move tool).
++ Make sure the UV sphere is selected, then use the blue, green, and red handles to resize it. For this we need to use the cube ends (the resize tool) instead of the arrow ends (the move tool).
 
 ![Cube ends](images/blender-handles-menu-2.png)
 
@@ -32,17 +34,17 @@ You'll probably notice that it's hard to get the proper shape using the handles.
 
 However, there is another way to do this.
 
-+ First, remove the UV sphere and add another one. Make sure the UV sphere is selected. Press <kbd>X</kbd> to delete it, then press <kbd>ENTER</kbd>. Go to the toolbox and add another UV sphere.
++ First, remove the UV sphere and add another one.
 
-+ Make sure your mouse is in the 3D view and the new UV sphere is selected. Press <kbd>S</kbd> and you can uniformly resize the UV sphere by just dragging your mouse.
++ Make sure your mouse is in the 3D view and the new UV sphere is selected. Press <kbd>S</kbd> — now you can uniformly resize the UV sphere by just dragging your mouse.
 
 ![Resize bottom](images/blender-snowman-resize-bottom-1.png)
 
-When you've reached the appropriate size just left click to confirm the size.
+When it's as big as you want it to be, just left click to confirm the size.
 
 You can check the size of the UV sphere by rendering it.
 
-+ Press <kbd>F12</kbd> or <kbd>FN + F12</kbd> if you're working on a Mac. Check the size of the UV sphere then press <kbd>ESC</kbd> to exit the view.
++ Press <kbd>F12</kbd> or <kbd>FN + F12</kbd> if you're working on a Mac. Check the size of the UV sphere, then press <kbd>ESC</kbd> to exit the render view.
 
 ![Render bottom](images/blender-render-bottom-1.png)
 
