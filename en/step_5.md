@@ -1,16 +1,16 @@
 ## Snowman's nose
 
-Usually the snowman's nose is made of a carrot so we'll use a cone for this.
+Usually a snowman's nose is made of a carrot — we'll use a cone for it.
 
-+ On the left hand panel, go to the Toolbox. From the **Create** tab select **Cone**.
++ G to the Toolbox and select **Cone** from the **Create** tab.
 
-+ The cone will probably be added inside the UV sphere so use the blue move handle to move it up.
++ The cone will probably be added inside the bottom again, so use the blue move handle to move it up.
 
 ![Drag cone](images/blender-drag-cone-1.png)
 
 ![Cone appears](images/blender-drag-cone-2.png)
 
-The cone might look too big for a nose so you need to resize it.
+The cone might look too big to be the nose, so you need to resize it.
 
 + Resize the cone either using the shortcut key <kbd>S</kbd> or the cube end handles, which might be a bit handier for this purpose.
 
@@ -20,7 +20,7 @@ For example:
 
 ![Resize the cone](images/blender-resize-cone.png)
 
-+ After you have resized the cone, move the cone onto the side of the snowman's head, just where the nose should be using the move handles:
++ After you have resized the cone, use the move handles to shift it onto the side of the snowman's head, just where the nose should be:
 
 ![Arrow end handles](images/blender-handles-menu-1.png)
 
@@ -38,7 +38,7 @@ You'll see arcs or little curves that you can use to manipulate and shape the no
 
 ![Rotate the nose](images/blender-rotate-nose-tool.png)
 
-Use the curve (red, blue or green) that will allow you to rotate in the direction you want to rotate the nose. For example:
+Use the curve (red, blue, or green) that will allow you to rotate the nose in the direction you want. For example:
 
 ![Rotate the nose](images/blender-rotate-cone-1.png)
 
@@ -48,7 +48,7 @@ Use the curve (red, blue or green) that will allow you to rotate in the directio
 
 ![Arrow end handles](images/blender-handles-menu-1.png)
 
-+ Position the nose properly using the blue, green and red handles.
++ Position the nose properly using the blue, green, and red handles.
 
 ![Position the nose](images/blender-rotate-cone-3.png)
 
