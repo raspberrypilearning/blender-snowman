@@ -1,6 +1,6 @@
-## Challenge: eyes, arms and buttons
+## Challenge: eyes, arms, and buttons
 
-+ Give the snowman some eyes, buttons and arms
++ Give the snowman some eyes, buttons, and arms.
 
 ![Eyes buttons and arms](images/blender-snowman.png)
 
