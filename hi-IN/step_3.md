@@ -1,53 +1,35 @@
-## Snowman's bottom
+## Snowman's head
 
-+ Open Blender.
+Now we need a head for the snowman.
 
-+ For this tutorial we won't be needing the splash screen, so click to the right and the splash screen will disappear.
++ Add another UV sphere.
 
-To create a snowman, we won't be needing a cube. Instead we need to add a ball or sphere.
+If it looks like no new sphere has appeared, don't worry — you might not be able to see it, because it was added inside the snowman's bottom. We need to drag it out.
 
-+ Remove the cube by selecting the cube, pressing <kbd>X</kbd>, and then pressing <kbd>Enter</kbd>.
++ Select the move tool from the left menu.
 
-![Remove cube](images/remove-cube.png)
+![Arrow ends](images/move-tool.png)
 
-Now we need to add a sphere.
++ Drag the UV sphere out using the blue handle (z-axis), and place it on top of the other sphere to make the head.
 
-+ On the left-hand panel, go to the **Toolbox**. Select the **Create** tab, then select **UV Sphere**.
+![Add the head](images/blender-snowman-add-head.png)
 
-![UV Sphere](images/uv-sphere.png)
++ Now render your image to see what it looks like. For example:
 
-By adding the UV Sphere, we have created a nice round bottom for the snowman.
+![Render the head](images/blender-head-render-1.png)
 
-+ To see what it looks like, press <kbd>F12</kbd> (or if you're working on a Mac, <kbd>FN + F12</kbd>) to render your image.
+The head may look a bit big, so let's shrink it down.
 
-The snowman's bottom looks a bit too small, so let's resize the UV sphere.
++ Press <kbd>ESC</kbd> to get out of the render view.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Select the head UV sphere, then press <kbd>S</kbd> to resize the object. Drag and move the mouse towards the centre of the object to make it smaller.
 
-+ Make sure the UV sphere is selected, then use the blue, green, and red handles to resize it. For this we need to use the cube ends (the resize tool) instead of the arrow ends (the move tool).
++ Render again to see what the image looks like. For example:
 
-![Cube ends](images/blender-handles-menu-2.png)
+![Render the head again](images/blender-head-render-2.png)
 
-You'll probably notice that it's hard to get the proper shape using the handles. It might end up looking like a giant egg. For example:
+If the head is too small or large, resize it to make it look right.
 
-![Egg bottom](images/blender-snowman-egg-bottom.png)
++ The head might not be stuck onto the snowman's bottom in the right position. Move the head onto the bottom using the handles. Check what it looks like by rendering the image. For example:
 
-However, there is another way to do this.
-
-+ First, remove the UV sphere and add another one.
-
-+ Make sure your mouse is in the 3D view and the new UV sphere is selected. Press <kbd>S</kbd> — now you can uniformly resize the UV sphere by just dragging your mouse.
-
-![Resize bottom](images/blender-snowman-resize-bottom-1.png)
-
-When it's as big as you want it to be, just left click to confirm the size.
-
-You can check the size of the UV sphere by rendering it.
-
-+ Press <kbd>F12</kbd> or <kbd>FN + F12</kbd> if you're working on a Mac. Check the size of the UV sphere, then press <kbd>ESC</kbd> to exit the render view.
-
-![Render bottom](images/blender-render-bottom-1.png)
-
-If the sphere looks too big, resize it again by pressing <kbd>S</kbd> and then dragging the mouse. Render to see if the size is appropriate. For example:
-
-![Render bottom again](images/blender-render-bottom-2.png)
+![Render the head on the bottom](images/blender-head-render-3.png)
