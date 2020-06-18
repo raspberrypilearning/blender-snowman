@@ -1,49 +1,49 @@
-## Snowman's nose
+## Schneemann Nase
 
-Usually a snowman's nose is made of a carrot — we'll use a cone for it.
+Normalerweise besteht die Nase eines Schneemanns aus einer Karotte - wir verwenden dafür einen Kegel.
 
 + Go to the **Add** dropdown menu and select **Cone** from the **Mesh** section.
 
-+ The cone will probably be added inside the bottom again, so use the blue move handle to move it up.
++ Der Kegel wird wahrscheinlich wieder innerhalb des Unterteils hinzugefügt, also verwende den blauen Bewegungsgriff, um ihn nach oben zu bewegen.
 
-![Drag cone](images/blender-drag-cone-1.png)
+![Kegel ziehen](images/blender-drag-cone-1.png)
 
-![Cone appears](images/blender-drag-cone-2.png)
+![Kegel erscheint](images/blender-drag-cone-2.png)
 
-The cone might look too big to be the nose, so you need to resize it.
+Der Kegel sieht möglicherweise zu groß aus um die Nase zu sein, daher musst du die Größe ändern.
 
 + Resize the cone either using the shortcut key <kbd>S</kbd> or the scale tool, which might be a bit handier for this purpose.
 
-For example:
+Zum Beispiel:
 
-![Resize the cone](images/blender-resize-cone.png)
+![Die Größe des Kegels ändern](images/blender-resize-cone.png)
 
 + After you have resized the cone, use the move tool to shift it onto the side of the snowman's head, just where the nose should be:
 
-For example:
+Zum Beispiel:
 
-![Position the cone](images/blender-position-cone-2.png)
+![Positionieren Sie den Kegel](images/blender-position-cone-2.png)
 
-You need to rotate the nose to stick it properly onto the snowman's head. For this you will use the rotation tool.
+Du musst die Nase drehen, um sie richtig auf den Kopf des Schneemann zu platzieren. Dazu verwendest du das Rotationswerkzeug.
 
-![Position the cone](images/rotate-tool.png)
+![Positionieren Sie den Kegel](images/rotate-tool.png)
 
-+ Make sure the nose cone is selected, then select the rotation tool (the arc) from the lower menu.
++ Stell sicher, dass der Nasenkegel ausgewählt ist, und wähle dann das Rotationswerkzeug (der Bogen) aus dem unteren Menü.
 
-You'll see arcs or little curves that you can use to manipulate and shape the nose.
+Du siehst Bögen oder kleine Kurven, mit denen die Nase manipuliert und geformt werden kann.
 
-![Rotate the nose](images/blender-rotate-nose-tool.png)
+![Nase drehen](images/blender-rotate-nose-tool.png)
 
-Use the curve (red, blue, or green) that will allow you to rotate the nose in the direction you want. For example:
+Verwende die Kurve (rot, blau oder grün), mit der die Nase in die gewünschte Richtung gedreht werden kann. Zum Beispiel:
 
-![Rotate the nose](images/blender-rotate-cone-1.png)
+![Nase drehen](images/blender-rotate-cone-1.png)
 
-![Rotate the nose more](images/blender-rotate-cone-2.png)
+![Nase weiter drehen](images/blender-rotate-cone-2.png)
 
-+ Switch back to the move tool.
++ Wechsel zurück zum Verschiebungswerkzeug.
 
-+ Position the nose properly using the blue, green, and red handles.
++ Positioniere die Nase richtig mit den blauen, grünen und roten Griffen.
 
-![Position the nose](images/blender-rotate-cone-3.png)
+![Nase positionieren](images/blender-rotate-cone-3.png)
 
-+ Now render and check how the snowman looks. Is the nose positioned properly? Does your model resemble a snowman?
++ Jetzt rendern und überprüfen, wie der Schneemann aussieht. Ist die Nase richtig positioniert? Du musst die Nase drehen, um sie richtig auf den Kopf des Schneemann zu platzieren.
