@@ -1,19 +1,19 @@
-## Snowman's hat
+## Schneemann Hut
 
-Now let's add a hat to the snowman. The hat will be made from a cylinder.
+Nun fügen wir dem Schneemann einen Hut hinzu. Der Hut wird aus einem Zylinder hergestellt.
 
 + Add a **Cylinder** from the **Add** dropdown menu's **Mesh** section.
 
-The cylinder might be added inside the UV sphere, so once again use the blue handle to move it upwards.
+Der Zylinder wird eventuell in der UV-Kugel eingefügt, verwende erneut den blauen Griff, um ihn wieder nach oben zu bewegen.
 
-![Drag cylinder](images/blender-drag-cylinder.png)
+![Zylinder ziehen](images/blender-drag-cylinder.png)
 
-+ Resize the cylinder using the shortcut key <kbd>S</kbd>, moving the mouse towards the middle of the cylinder to make it smaller.
++ Änder nun die Größe des Zylinders mit der Tastenkombination <kbd>S</kbd>. Bewege die Maus in Richtung der Mitte des Zylinders, um ihn zu verkleinern.
 
-![Resize cylinder](images/blender-resize-cylinder.png)
+![Zylindergröße ändern](images/blender-resize-cylinder.png)
 
-+ Move the cylinder on top of the snowman's head using the blue, green, and red move handles.
++ Bewege den Zylinder auf den Kopf des Schneemanns, unter Verwendung der blauen, grünen und roten Griffe.
 
-+ Render to see what the snowman looks like. For example:
++ Rendern um zu sehen, wie der Schneemann aussieht. Zum Beispiel:
 
-![Render the snowman](images/blender-render-snowman-1.png)
+![Rendern Sie den Schneemann](images/blender-render-snowman-1.png)
