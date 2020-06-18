@@ -1,35 +1,49 @@
-## Snowman's head
+## Snowman's nose
 
-Now we need a head for the snowman.
+Usually a snowman's nose is made of a carrot — we'll use a cone for it.
 
-+ Add another UV sphere.
++ Go to the **Add** dropdown menu and select **Cone** from the **Mesh** section.
 
-If it looks like no new sphere has appeared, don't worry — you might not be able to see it, because it was added inside the snowman's bottom. We need to drag it out.
++ The cone will probably be added inside the bottom again, so use the blue move handle to move it up.
 
-+ Select the arrow ends (move tool) from the bottom menu.
+![Drag cone](images/blender-drag-cone-1.png)
 
-![Arrow ends](images/blender-handles-menu-1.png)
+![Cone appears](images/blender-drag-cone-2.png)
 
-+ Drag the UV sphere out using the blue handle (z-axis), and place it on top of the other sphere to make the head.
+The cone might look too big to be the nose, so you need to resize it.
 
-![Add the head](images/blender-snowman-add-head.png)
++ Resize the cone either using the shortcut key <kbd>S</kbd> or the scale tool, which might be a bit handier for this purpose.
 
-+ Now render your image to see what it looks like. For example:
+For example:
 
-![Render the head](images/blender-head-render-1.png)
+![Resize the cone](images/blender-resize-cone.png)
 
-The head may look a bit big, so let's shrink it down.
++ After you have resized the cone, use the move tool to shift it onto the side of the snowman's head, just where the nose should be:
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
+For example:
 
-+ Select the head UV sphere, then press <kbd>S</kbd> to resize the object. Drag and move the mouse towards the centre of the object to make it smaller.
+![Position the cone](images/blender-position-cone-2.png)
 
-+ Render again to see what the image looks like. For example:
+You need to rotate the nose to stick it properly onto the snowman's head. For this you will use the rotation tool.
 
-![Render the head again](images/blender-head-render-2.png)
+![Position the cone](images/rotate-tool.png)
 
-If the head is too small or large, resize it to make it look right.
++ Make sure the nose cone is selected, then select the rotation tool (the arc) from the lower menu.
 
-+ The head might not be stuck onto the snowman's bottom in the right position. Move the head onto the bottom using the handles. Check what it looks like by rendering the image. For example:
+You'll see arcs or little curves that you can use to manipulate and shape the nose.
 
-![Render the head on the bottom](images/blender-head-render-3.png)
+![Rotate the nose](images/blender-rotate-nose-tool.png)
+
+Use the curve (red, blue, or green) that will allow you to rotate the nose in the direction you want. For example:
+
+![Rotate the nose](images/blender-rotate-cone-1.png)
+
+![Rotate the nose more](images/blender-rotate-cone-2.png)
+
++ Switch back to the move tool.
+
++ Position the nose properly using the blue, green, and red handles.
+
+![Position the nose](images/blender-rotate-cone-3.png)
+
++ Now render and check how the snowman looks. Is the nose positioned properly? Does your model resemble a snowman?
