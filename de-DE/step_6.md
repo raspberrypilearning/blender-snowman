@@ -1,7 +1,7 @@
-## Challenge: eyes, arms, and buttons
+## Herausforderung: Augen, Arme und Knöpfe
 
-+ Give the snowman some eyes, buttons, and arms.
++ Gib dem Schneemann ein paar Augen, Knöpfe und Arme.
 
-![Eyes buttons and arms](images/blender-snowman.png)
+![Augen, Knöpfe und Arme](images/blender-snowman.png)
 
-+ Perhaps you could add a scarf?
++ Vielleicht kannst du einen Schal hinzufügen?
