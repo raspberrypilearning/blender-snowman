@@ -1,53 +1,53 @@
-## Snowman's bottom
+## Schneemann Unterteil
 
-+ Open Blender.
++ Starte Blender.
 
-+ For this tutorial we won't be needing the splash screen, so click to the right and the splash screen will disappear.
++ Für dieses Tutorial benötigen wir keinen Begrüßungsbildschirm. Klicke also nach rechts, und der Begrüßungsbildschirm verschwindet.
 
-To create a snowman, we won't be needing a cube. Instead we need to add a ball or sphere.
+Um einen Schneemann zu erschaffen, brauchen wir keinen Würfel. Stattdessen müssen wir einen Ball oder eine Kugel hinzufügen.
 
-+ Remove the cube by selecting the cube, pressing <kbd>X</kbd>, and then pressing <kbd>Enter</kbd>.
++ Entferne den Würfel, indem du <kbd>X</kbd> und dann <kbd>Enter</kbd> drückst.
 
-![Remove cube](images/remove-cube.png)
+![Würfel entfernen](images/remove-cube.png)
 
-Now we need to add a sphere.
+Jetzt müssen wir eine Kugel hinzufügen.
 
 + Click the **Add** dropdown menu in the top left corner of the 3D View, then select **Mesh** > **UV Sphere**.
 
-![UV Sphere](images/uv-sphere.png)
+![UV-Kugel](images/uv-sphere.png)
 
-By adding the UV Sphere, we have created a nice round bottom for the snowman.
+Durch das Hinzufügen der UV-Kugel haben wir ein schönes rundes Unterteil für den Schneemann geschaffen.
 
-+ To see what it looks like, press <kbd>F12</kbd> (or if you're working on a Mac, <kbd>FN + F12</kbd>) to render your image.
++ Um zu sehen, wie es aussieht, drücke <kbd>F12</kbd> (oder wenn du auf einem Mac arbeitest, <kbd>FN + F12</kbd>), um dein Bild darzustellen.
 
-The snowman's bottom looks a bit too small, so let's resize the UV sphere.
+Der Schneemann sieht ein bisschen zu klein aus, also lass uns die Größe der UV-Kugel verändern.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Drücke <kbd> ESC </kbd>, um die Renderansicht zu verlassen.
 
 + Make sure the UV sphere and the **Scale** tool (in the left-hand panel) are selected, then use the blue, green, and red handles to resize it.
 
-![Cube ends](images/scale-tool.png)
+![Würfel Ecken](images/scale-tool.png)
 
-You'll probably notice that it's hard to get the proper shape using the handles. It might end up looking like a giant egg. For example:
+Du wirst wahrscheinlich feststellen, dass es schwierig ist, mit den Griffen die richtige Form zu erhalten. Am Ende könnte es wie ein riesiges Ei aussehen. Zum Beispiel:
 
-![Egg bottom](images/blender-snowman-egg-bottom.png)
+![Eierboden](images/blender-snowman-egg-bottom.png)
 
-However, there is another way to do this.
+Dafür gibt es jedoch noch eine andere Möglichkeit.
 
-+ First, remove the UV sphere and add another one.
++ Entferne zuerst die UV-Kugel und füge eine weitere hinzu.
 
-+ Make sure your mouse is in the 3D view and the new UV sphere is selected. Press <kbd>S</kbd> — now you can uniformly resize the UV sphere by just dragging your mouse.
++ Sei sicher, dass sich deine Maus in der 3D-Ansicht befindet und die neue UV-Kugel ausgewählt ist. Drücke <kbd>S</kbd> - Jetzt kannst du die Größe der UV-Kugel gleichmäßig ändern, indem du einfach mit der Maus ziehst.
 
-![Resize bottom](images/blender-snowman-resize-bottom-1.png)
+![Größe unten ändern](images/blender-snowman-resize-bottom-1.png)
 
-When it's as big as you want it to be, just left click to confirm the size.
+Wenn es so groß ist, wie du es haben willst, klicke einfach mit der linken Maustaste, um die Größe zu bestätigen.
 
-You can check the size of the UV sphere by rendering it.
+Du kannst die Größe der UV-Kugel überprüfen, indem du sie wieder renderst.
 
-+ Press <kbd>F12</kbd> or <kbd>FN + F12</kbd> if you're working on a Mac. Check the size of the UV sphere, then press <kbd>ESC</kbd> to exit the render view.
++ Drücke <kbd>F12</kbd> oder <kbd>FN + F12</kbd> wenn du auf einem Mac arbeitest. Überprüfe die Größe der UV-Kugel und drücke dann <kbd> ESC </kbd>, um die Renderansicht zu verlassen.
 
-![Render bottom](images/blender-render-bottom-1.png)
+![Unten anzeigen](images/blender-render-bottom-1.png)
 
-If the sphere looks too big, resize it again by pressing <kbd>S</kbd> and then dragging the mouse. Render to see if the size is appropriate. For example:
+Wenn die Kugel zu groß aussieht, ändere die Größe erneut, indem du <kbd>S drückst</kbd> und dann die Maus ziehst. Rendern, um zu sehen, ob die Größe angemessen ist. Zum Beispiel:
 
-![Render bottom again](images/blender-render-bottom-2.png)
+![Unten erneut rendern](images/blender-render-bottom-2.png)
