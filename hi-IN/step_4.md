@@ -1,49 +1,49 @@
-## Snowman's nose
+## स्नोमैन की नाक
 
-Usually a snowman's nose is made of a carrot — we'll use a cone for it.
+आम तौर पर स्नोमैन की नाक गाजर से बनी होती है - हम इसके लिए शंकु का उपयोग करेंगे।
 
-+ Go to the **Add** dropdown menu and select **Cone** from the **Mesh** section.
++ ** Add ** ड्रॉपडाउन मेन्यू पर जाएं और ** Cone **का चयन करें ** Mesh ** अनुभाग से।
 
-+ The cone will probably be added inside the bottom again, so use the blue move handle to move it up.
++ शंकु शायद फिर से निचले हिस्से के अंदर जोड़ा जाएगा, इसलिए इसे ऊपर ले जाने के लिए नीले रंग के हैंडल का उपयोग करें।
 
-![Drag cone](images/blender-drag-cone-1.png)
+![शंकु को खिसकाएं](images/blender-drag-cone-1.png)
 
-![Cone appears](images/blender-drag-cone-2.png)
+![शंकु प्रकट होता है](images/blender-drag-cone-2.png)
 
-The cone might look too big to be the nose, so you need to resize it.
+शंकु नाक के लिए बहुत बड़ा लग सकता है, इसलिए आपको इसका आकार बदलना होगा।
 
-+ Resize the cone either using the shortcut key <kbd>S</kbd> or the scale tool, which might be a bit handier for this purpose.
++ शंकु का आकार बदलने के लिए शॉर्टकट कुंजी <kbd>S</kbd> का या क्यूब के सिरों के हैंडलों का उपयोग करें, जो इस प्रयोजन के लिए थोड़ा आसान हो सकता है।
 
-For example:
+उदाहरण के लिए:
 
-![Resize the cone](images/blender-resize-cone.png)
+![शंकु का आकार बदलें](images/blender-resize-cone.png)
 
-+ After you have resized the cone, use the move tool to shift it onto the side of the snowman's head, just where the nose should be:
++ शंकु का आकार बदल लेने के बाद, हैंडलों का उपयोग करके इसे स्नोमैन के सिर के किनारे पर ले जाएँ, जहाँ नाक को होना चाहिए:
 
-For example:
+उदाहरण के लिए:
 
-![Position the cone](images/blender-position-cone-2.png)
+![शंकु को जगह पर लगाएँ](images/blender-position-cone-2.png)
 
-You need to rotate the nose to stick it properly onto the snowman's head. For this you will use the rotation tool.
+नाक को स्नोमैन के सिर पर ठीक तरह से लगाने के लिए आपको इसे घुमाना होगा। इसके लिए आप रोटेशन टूल का उपयोग करेंगे।
 
-![Position the cone](images/rotate-tool.png)
+![शंकु को जगह पर लगाएँ](images/rotate-tool.png)
 
-+ Make sure the nose cone is selected, then select the rotation tool (the arc) from the lower menu.
++ सुनिश्चित करें कि नाक शंकु का चयन किया गया है, फिर नीचे के मेन्यू से रोटेशन टूल (आर्क) का चयन करें।
 
-You'll see arcs or little curves that you can use to manipulate and shape the nose.
+आपको आर्क या छोटे वक्र दिखाई देंगे जिनका उपयोग आप नाक में बदलाव करने और आकार देने के लिए कर सकते हैं।
 
-![Rotate the nose](images/blender-rotate-nose-tool.png)
+![नाक को घुमाएँ](images/blender-rotate-nose-tool.png)
 
-Use the curve (red, blue, or green) that will allow you to rotate the nose in the direction you want. For example:
+वक्र (लाल, नीले, या हरे) का उपयोग करें जिससे आपको नाक को अपनी मनचाही दिशा में घुमा सकते हैं। उदाहरण के लिए:
 
-![Rotate the nose](images/blender-rotate-cone-1.png)
+![नाक को घुमाएँ](images/blender-rotate-cone-1.png)
 
-![Rotate the nose more](images/blender-rotate-cone-2.png)
+![नाक को और घुमाएँ](images/blender-rotate-cone-2.png)
 
-+ Switch back to the move tool.
++ वापस मूव टूल पर जाएँ।
 
-+ Position the nose properly using the blue, green, and red handles.
++ नीले, हरे और लाल हैंडलों का उपयोग करके नाक को सही जगह पर रखें।
 
-![Position the nose](images/blender-rotate-cone-3.png)
+![नाक को जगह पर लगाएँ](images/blender-rotate-cone-3.png)
 
-+ Now render and check how the snowman looks. Is the nose positioned properly? Does your model resemble a snowman?
++ अब प्रस्तुत करें और जाँच करें कि स्नोमैन कैसा दिखता है। क्या नाक ठीक जगह पर है? क्या आपका मॉडल स्नोमैन जैसा दिखता है?
