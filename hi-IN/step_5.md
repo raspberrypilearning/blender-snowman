@@ -1,19 +1,19 @@
-## Snowman's hat
+## स्नोमैन की टोपी
 
-Now let's add a hat to the snowman. The hat will be made from a cylinder.
+आइए अब स्नोमैन को टोपी लगाएँ। टोपी सिलेंडर से बनाई जाएगी।
 
-+ Add a **Cylinder** from the **Add** dropdown menu's **Mesh** section.
++ एक ** Cylinder ** जोड़ें ** Add ** ड्रॉपडाउन मेन्यू के ** Mesh ** अनुभाग से।
 
-The cylinder might be added inside the UV sphere, so once again use the blue handle to move it upwards.
+हो सकता है कि सिलेंडर UV गोलाकार आकृति के अंदर जुड़ जाए, इसलिए इसे ऊपर की ओर ले जाने के लिए एक बार फिर नीले हैंडल का उपयोग करें।
 
-![Drag cylinder](images/blender-drag-cylinder.png)
+![सिलेंडर को खसकायें](images/blender-drag-cylinder.png)
 
-+ Resize the cylinder using the shortcut key <kbd>S</kbd>, moving the mouse towards the middle of the cylinder to make it smaller.
++ शॉर्टकट कुंजी <kbd>S</kbd> का उपयोग करके सिलेंडर का आकार बदलें, इसे छोटे करने के लिए माउस को सिलेंडर के बीच की ओर ले जाएँ।
 
-![Resize cylinder](images/blender-resize-cylinder.png)
+![सिलेंडर का आकार बदलें](images/blender-resize-cylinder.png)
 
-+ Move the cylinder on top of the snowman's head using the blue, green, and red move handles.
++ नीले, हरे और लाल हैंडलों का उपयोग करके सिलेंडर को स्नोमैन के सिर के ऊपर ले जाएँ।
 
-+ Render to see what the snowman looks like. For example:
++ यह देखने के लिए छवि प्रस्तुत करें कि स्नोमैन कैसा दिखता है। उदाहरण के लिए:
 
-![Render the snowman](images/blender-render-snowman-1.png)
+![स्नोमैन को प्रस्तुत करें](images/blender-render-snowman-1.png)
