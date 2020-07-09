@@ -1,53 +1,53 @@
-## Snowman's bottom
+## स्नोमैन का निचला हिस्सा
 
-+ Open Blender.
++ Blender खोलें।
 
-+ For this tutorial we won't be needing the splash screen, so click to the right and the splash screen will disappear.
++ इस ट्यूटोरियल के लिए हमें स्प्लैश स्क्रीन की आवश्यकता नहीं होगी, इसलिए दाईं ओर क्लिक करें और स्प्लैश स्क्रीन गायब हो जाएगी।
 
-To create a snowman, we won't be needing a cube. Instead we need to add a ball or sphere.
+स्नोमैन बनाने के लिए, हमें क्यूब की आवश्यकता नहीं होगी। इसके बजाय हमें कोई गेंद या गोलाकार आकृति जोड़ने की ज़रूरत है।
 
-+ Remove the cube by selecting the cube, pressing <kbd>X</kbd>, and then pressing <kbd>Enter</kbd>.
++ क्यूब का चयन करके, <kbd>X</kbd> को दबाकर, और उसके बाद <kbd>Enter</kbd> को दबाकर क्यूब को हटाएं।
 
-![Remove cube](images/remove-cube.png)
+![क्यूब निकालें](images/remove-cube.png)
 
-Now we need to add a sphere.
+अब हमें एक गोलाकार आकृति जोड़ने की जरूरत है।
 
-+ Click the **Add** dropdown menu in the top left corner of the 3D View, then select **Mesh** > **UV Sphere**.
++ 3D व्यू के ऊपरी बाएं कोने में ** Add ** ड्रॉपडाउन मेनू पर क्लिक करें, फिर चुनें ** Mesh ** **UV Sphere** ।
 
-![UV Sphere](images/uv-sphere.png)
+![UV गोलाकार आकृति](images/uv-sphere.png)
 
-By adding the UV Sphere, we have created a nice round bottom for the snowman.
+UV गोलाकार आकृति जोड़कर, हमने स्नोमैन के लिए एक अच्छा गोल पेंदा बनाया है।
 
-+ To see what it looks like, press <kbd>F12</kbd> (or if you're working on a Mac, <kbd>FN + F12</kbd>) to render your image.
++ यह देखने के लिए कि यह कैसा दिखता है, अपनी छवि प्रस्तुत करने के लिए <kbd>F12</kbd>दबा कर (या यदि आप मैक का उपयोग कर रहे हैं तो <kbd>FN + F12</kbd> दबा कर) छवि प्रस्तुत करें।
 
-The snowman's bottom looks a bit too small, so let's resize the UV sphere.
+स्नोमैन का पेंदा थोड़ा छोटा दिखता है, तो चलिए UV गोलाकार आकृति का आकार बदलते हैं।
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ प्रस्तुत दृश्य से बाहर निकलने के लिए <kbd>ESC</kbd> दबाएँ।
 
-+ Make sure the UV sphere and the **Scale** tool (in the left-hand panel) are selected, then use the blue, green, and red handles to resize it.
++ सुनिश्चित करें कि UV गोलाकार आकृति और ** Scale ** उपकरण (बाएं हाथ के पैनल में) चुने गए हैं, फिर इसे आकार देने के लिए नीले, हरे और लाल हैंडल का उपयोग करें।
 
-![Cube ends](images/scale-tool.png)
+![क्यूब के सिरे](images/scale-tool.png)
 
-You'll probably notice that it's hard to get the proper shape using the handles. It might end up looking like a giant egg. For example:
+आप शायद देखेंगे कि हैंडल का उपयोग करके उचित आकार प्राप्त करना मुश्किल है। आखिर में शायद यह एक विशाल अंडे की तरह लग रहा हो सकता है। उदाहरण के लिए:
 
-![Egg bottom](images/blender-snowman-egg-bottom.png)
+![अंडाकार निचला भाग](images/blender-snowman-egg-bottom.png)
 
-However, there is another way to do this.
+हालांकि, ऐसा करने का एक और तरीका है।
 
-+ First, remove the UV sphere and add another one.
++ पहले, इस UV गोलाकार आकृति को हटा दें और कोई दूसरी आकृति जोड़ें।
 
-+ Make sure your mouse is in the 3D view and the new UV sphere is selected. Press <kbd>S</kbd> — now you can uniformly resize the UV sphere by just dragging your mouse.
++ सुनिश्चित करें कि आपका माउस 3D व्यू में है और नई UV गोलाकार आकृति का चयन किया गया है। <kbd>S</kbd> दबाएं - अब आप अपने माउस को खींचकर UV गोलाकार आकृति का आकार एकरूपता से बदल सकते हैं।
 
-![Resize bottom](images/blender-snowman-resize-bottom-1.png)
+![निचले भाग का आकार बदलें](images/blender-snowman-resize-bottom-1.png)
 
-When it's as big as you want it to be, just left click to confirm the size.
+जब यह उतना बड़ा हो जाए जितना बड़ा आप चाहते हैं, तो आकार की पुष्टि करने के लिए बस बायां क्लिक करें।
 
-You can check the size of the UV sphere by rendering it.
+आप इसे प्रस्तुत करके UV गोलाकार आकृति के आकार की जांच कर सकते हैं।
 
-+ Press <kbd>F12</kbd> or <kbd>FN + F12</kbd> if you're working on a Mac. Check the size of the UV sphere, then press <kbd>ESC</kbd> to exit the render view.
++ <kbd>F12</kbd> दबाएँ या यदि आप मैक का उपयोग कर रहे हैं तो <kbd>FN + F12</kbd> दबाएँ। UV गोलाकार आकृति के आकार की जाँच करें, फिर प्रस्तुत दृश्य से बाहर निकलने के लिए <kbd>ESC</kbd> दबाएँ।
 
-![Render bottom](images/blender-render-bottom-1.png)
+![निचले भाग का दृश्य प्रस्तुत करें](images/blender-render-bottom-1.png)
 
-If the sphere looks too big, resize it again by pressing <kbd>S</kbd> and then dragging the mouse. Render to see if the size is appropriate. For example:
+यदि गोलाकार आकृति बहुत बड़ी दिखती है, तो <kbd>S</kbd> दबाकर और उसके बाद माउस से खींचकर इसका आकार बदलें। यह देखने के लिए चित्रांकन करें कि आकार उचित है या नहीं। उदाहरण के लिए:
 
-![Render bottom again](images/blender-render-bottom-2.png)
+![निचले भाग का दुबारा दृश्य प्रस्तुत करें](images/blender-render-bottom-2.png)
