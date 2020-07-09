@@ -1,7 +1,7 @@
-## Challenge: eyes, arms, and buttons
+## चुनौती: आँखें, भुजाएँ, और बटन
 
-+ Give the snowman some eyes, buttons, and arms.
++ स्नोमैन में कुछ आँखें, बटन और भुजाएँ लगाएँ।
 
-![Eyes buttons and arms](images/blender-snowman.png)
+![आँखें बटन और भुजाएँ](images/blender-snowman.png)
 
-+ Perhaps you could add a scarf?
++ शायद आप स्कार्फ भी जोड़ सकते हैं?
