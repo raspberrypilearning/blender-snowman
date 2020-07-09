@@ -2,7 +2,7 @@
 
 Normalerweise besteht die Nase eines Schneemanns aus einer Karotte - wir verwenden dafür einen Kegel.
 
-+ Go to the **Add** dropdown menu and select **Cone** from the **Mesh** section.
++ Gehe zu **Hinzufügen** im Dropdown-Menü und wähle**Kegel** aus der **Mesh**-Sektion.
 
 + Der Kegel wird wahrscheinlich wieder innerhalb des Unterteils hinzugefügt, also verwende den blauen Bewegungsgriff, um ihn nach oben zu bewegen.
 
@@ -12,13 +12,13 @@ Normalerweise besteht die Nase eines Schneemanns aus einer Karotte - wir verwend
 
 Der Kegel sieht möglicherweise zu groß aus um die Nase zu sein, daher musst du die Größe ändern.
 
-+ Resize the cone either using the shortcut key <kbd>S</kbd> or the scale tool, which might be a bit handier for this purpose.
++ Ändere die Größe des Kegels entweder mit der Tastenkombination <kbd>S</kbd> oder mit dem Skalierungswerkzeug, das für diesen Zweck möglicherweise etwas handlicher ist.
 
 Zum Beispiel:
 
 ![Die Größe des Kegels ändern](images/blender-resize-cone.png)
 
-+ After you have resized the cone, use the move tool to shift it onto the side of the snowman's head, just where the nose should be:
++ Nachdem du die Größe des Kegels geändert hast, verschiebe ihn mit den Bewegungsgriffen auf die Seite des Schneemannkopfes, genau dort, wo die Nase sein sollte:
 
 Zum Beispiel:
 
