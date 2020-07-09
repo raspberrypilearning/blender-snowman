@@ -2,7 +2,7 @@
 
 Nun fügen wir dem Schneemann einen Hut hinzu. Der Hut wird aus einem Zylinder hergestellt.
 
-+ Add a **Cylinder** from the **Add** dropdown menu's **Mesh** section.
++ Füge einen **Zylinder** aus der **Mesh**-Sektion des **Hinzufügen** Dropdown Menüs hinzu.
 
 Der Zylinder wird eventuell in der UV-Kugel eingefügt, verwende erneut den blauen Griff, um ihn wieder nach oben zu bewegen.
 
