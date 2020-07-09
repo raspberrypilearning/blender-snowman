@@ -1,7 +1,7 @@
 ---
-title: Snowman
+title: स्नोमैन
 hero_image: images/banner.png
-description: Build a 3D model of a snowman using Blender
+description: Blender का उपयोग कर स्नोमैन का एक 3D मॉडल बनाएँ!
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
@@ -17,14 +17,14 @@ version: 4
 last_tested: 2020-01-28
 steps:
   - 
-    title: Introduction
+    title: भूमिका
   - 
-    title: "Snowman's bottom"
+    title: "स्नोमैन का निचला हिस्सा"
   - 
-    title: "Snowman's head"
+    title: "स्नोमैन का सिर"
   - 
-    title: "Snowman's nose"
+    title: "स्नोमैन की नाक"
   - 
-    title: "Snowman's hat"
+    title: "स्नोमैन की टोपी"
   - 
-    title: "Challenge: eyes, arms, and buttons"
+    title: "चुनौती: आँखें, भुजाएँ, और बटन"
