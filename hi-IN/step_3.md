@@ -1,35 +1,35 @@
-## Snowman's head
+## स्नोमैन का सिर
 
-Now we need a head for the snowman.
+अब हमें स्नोमैन के लिए एक सिर चाहिए।
 
-+ Add another UV sphere.
++ एक और UV गोलाकार आकृति जोड़ें।
 
-If it looks like no new sphere has appeared, don't worry — you might not be able to see it, because it was added inside the snowman's bottom. We need to drag it out.
+यदि ऐसा लगता है कि कोई नई गोलाकार आकृति दिखाई नहीं दे रही है, तो चिंता न करें - शायद आप इसे इसलिए नहीं देख पा रहे होंगे क्योंकि इसे स्नोमैन के निचले भाग के अंदर जोड़ा गया था। हमें इसे बाहर खींचने की ज़रूरत है।
 
-+ Select the move tool from the left menu.
++ बाएं मेन्यू से move टूल का चयन करें।
 
-![Arrow ends](images/move-tool.png)
+![तीर के सिरे](images/move-tool.png)
 
-+ Drag the UV sphere out using the blue handle (z-axis), and place it on top of the other sphere to make the head.
++ नीले हैंडल (जेड-अक्ष) का उपयोग करके UV गोलाकार आकृति को खींचें, और सिर बनाने के लिए इसे दूसरी गोलाकार आकृति के ऊपर रखें।
 
-![Add the head](images/blender-snowman-add-head.png)
+![सिर जोड़ें](images/blender-snowman-add-head.png)
 
-+ Now render your image to see what it looks like. For example:
++ अब यह देखने के लिए अपनी छवि को प्रस्तुत करें कि यह कैसी दिखती है। उदाहरण के लिए:
 
-![Render the head](images/blender-head-render-1.png)
+![सिर प्रस्तुत करें](images/blender-head-render-1.png)
 
-The head may look a bit big, so let's shrink it down.
+सिर थोड़ा बड़ा लग सकता है, तो आइए इसे थोड़ा छोटा करें।
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ प्रस्तुत दृश्य से बाहर निकलने के लिए <kbd>ESC</kbd> दबाएँ।
 
-+ Select the head UV sphere, then press <kbd>S</kbd> to resize the object. Drag and move the mouse towards the centre of the object to make it smaller.
++ सिर की UV गोलाकार आकृति का चयन करें, फिर वस्तु का आकार बदलने के लिए <kbd>S</kbd> दबाएँ। ऑब्जेक्ट को छोटा करने के लिए माउस को खींचकर ऑब्जेक्ट के केंद्र की ओर ले जाएं।
 
-+ Render again to see what the image looks like. For example:
++ यह देखने के लिए छवि को फिर से प्रस्तुत करें कि यह कैसी दिखती है। उदाहरण के लिए:
 
-![Render the head again](images/blender-head-render-2.png)
+![सिर फिर से प्रस्तुत करें](images/blender-head-render-2.png)
 
-If the head is too small or large, resize it to make it look right.
+यदि सिर बहुत छोटा या बड़ा है, तो इसे सही दिखने के लिए इसका आकार बदलें।
 
-+ The head might not be stuck onto the snowman's bottom in the right position. Move the head onto the bottom using the handles. Check what it looks like by rendering the image. For example:
++ हो सकता है कि सिर स्नोमैन के निचले हिस्से में ठीक जगह पर न लगा हो। हैंडल का उपयोग कर सिर को नीचे की ओर ले जाएँ। छवि को प्रस्तुत करके जाँच करें कि यह कैसी दिखती है। उदाहरण के लिए:
 
-![Render the head on the bottom](images/blender-head-render-3.png)
+![सिर निचले हिस्से पर प्रस्तुत करें](images/blender-head-render-3.png)
