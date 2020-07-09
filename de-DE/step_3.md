@@ -6,7 +6,7 @@ Jetzt brauchen wir einen Kopf für den Schneemann.
 
 Wenn es so aussieht als wäre keine neue Kugel erschienen, keine Sorge – du kannst sie vielleicht nicht sehen weil sie im Schneemann Unterteil hinzugefügt wurde. Wir müssen sie hinausschieben.
 
-+ Select the move tool from the left menu.
++ Wähle das Verschieben-Werkzeug aus dem linken Menü.
 
 ![Pfeilenden](images/move-tool.png)
 
