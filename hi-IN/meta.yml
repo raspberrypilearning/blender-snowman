@@ -1,0 +1,24 @@
+---
+title: स्नोमैन
+hero_image: images/banner.png
+description: Blender का उपयोग कर स्नोमैन का एक 3D मॉडल बनाएँ!
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: art
+technologies: blender
+site_areas: projects
+hardware: ''
+software: blender
+version: 4
+last_tested: 2020-01-28
+steps:
+  - title: भूमिका
+  - title: "स्नोमैन का निचला हिस्सा"
+  - title: "स्नोमैन का सिर"
+  - title: "स्नोमैन की नाक"
+  - title: "स्नोमैन की टोपी"
+  - title: "चुनौती: आँखें, भुजाएँ, और बटन"
