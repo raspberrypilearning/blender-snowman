@@ -12,7 +12,7 @@ Um einen Schneemann zu erschaffen, brauchen wir keinen Würfel. Stattdessen müs
 
 Jetzt müssen wir eine Kugel hinzufügen.
 
-+ Click the **Add** dropdown menu in the top left corner of the 3D View, then select **Mesh** > **UV Sphere**.
++ Klicke auf **Hinzufügen** im Dropdown-Menü in der oberen linken Ecke der 3D-Ansicht, wähle dann **Netz** > **UV-Kugel**.
 
 ![UV-Kugel](images/uv-sphere.png)
 
@@ -24,7 +24,7 @@ Der Schneemann sieht ein bisschen zu klein aus, also lass uns die Größe der UV
 
 + Drücke <kbd> ESC </kbd>, um die Renderansicht zu verlassen.
 
-+ Make sure the UV sphere and the **Scale** tool (in the left-hand panel) are selected, then use the blue, green, and red handles to resize it.
++ Stelle sicher, dass die UV-Kugel und das **Skalieren**-Werkzeug (im linken Bereich) ausgewählt sind. Verwende dann die blauen, grünen und roten Ziehpunkte, um die Größe zu ändern.
 
 ![Würfel Ecken](images/scale-tool.png)
 
