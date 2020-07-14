@@ -2,7 +2,7 @@
 
 Normalerweise besteht die Nase eines Schneemanns aus einer Karotte - wir verwenden dafür einen Kegel.
 
-+ Gehe zu **Hinzufügen** im Dropdown-Menü und wähle**Kegel** aus der **Mesh**-Sektion.
++ Gehe zu **Hinzufügen** im Dropdown-Menü und wähle **Kegel** aus der **Mesh**-Sektion.
 
 + Der Kegel wird wahrscheinlich wieder innerhalb des Unterteils hinzugefügt, also verwende den blauen Bewegungsgriff, um ihn nach oben zu bewegen.
 
@@ -10,9 +10,9 @@ Normalerweise besteht die Nase eines Schneemanns aus einer Karotte - wir verwend
 
 ![Kegel erscheint](images/blender-drag-cone-2.png)
 
-Der Kegel sieht möglicherweise zu groß aus um die Nase zu sein, daher musst du die Größe ändern.
+Der Kegel sieht möglicherweise zu groß aus, um die Nase zu sein, daher musst du die Größe ändern.
 
-+ Ändere die Größe des Kegels entweder mit der Tastenkombination <kbd>S</kbd> oder mit dem Skalierungswerkzeug, das für diesen Zweck möglicherweise etwas handlicher ist.
++ Ändere die Größe des Kegels entweder mit der Taste <kbd>S</kbd> oder mit dem Skalierungswerkzeug, das für diesen Zweck möglicherweise etwas handlicher ist.
 
 Zum Beispiel:
 
@@ -22,11 +22,11 @@ Zum Beispiel:
 
 Zum Beispiel:
 
-![Positionieren Sie den Kegel](images/blender-position-cone-2.png)
+![Den Kegel positionieren](images/blender-position-cone-2.png)
 
-Du musst die Nase drehen, um sie richtig auf den Kopf des Schneemann zu platzieren. Dazu verwendest du das Rotationswerkzeug.
+Du musst die Nase drehen, um sie richtig auf den Kopf des Schneemanns zu platzieren. Dazu verwendest du das Rotationswerkzeug.
 
-![Positionieren Sie den Kegel](images/rotate-tool.png)
+![Positioniere den Kegel](images/rotate-tool.png)
 
 + Stell sicher, dass der Nasenkegel ausgewählt ist, und wähle dann das Rotationswerkzeug (der Bogen) aus dem unteren Menü.
 
