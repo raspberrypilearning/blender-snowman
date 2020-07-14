@@ -18,7 +18,7 @@ Jetzt müssen wir eine Kugel hinzufügen.
 
 Durch das Hinzufügen der UV-Kugel haben wir ein schönes rundes Unterteil für den Schneemann geschaffen.
 
-+ Um zu sehen, wie es aussieht, drücke <kbd>F12</kbd> (oder wenn du auf einem Mac arbeitest, <kbd>FN + F12</kbd>), um dein Bild darzustellen.
++ Um zu sehen, wie es aussieht, drücke <kbd>F12</kbd> (oder, wenn du auf einem Mac arbeitest, <kbd>FN + F12</kbd>), um dein Bild darzustellen.
 
 Der Schneemann sieht ein bisschen zu klein aus, also lass uns die Größe der UV-Kugel verändern.
 
@@ -44,10 +44,10 @@ Wenn es so groß ist, wie du es haben willst, klicke einfach mit der linken Maus
 
 Du kannst die Größe der UV-Kugel überprüfen, indem du sie wieder renderst.
 
-+ Drücke <kbd>F12</kbd> oder <kbd>FN + F12</kbd> wenn du auf einem Mac arbeitest. Überprüfe die Größe der UV-Kugel und drücke dann <kbd> ESC </kbd>, um die Renderansicht zu verlassen.
++ Drücke <kbd>F12</kbd> oder <kbd>FN + F12</kbd>, wenn du auf einem Mac arbeitest. Überprüfe die Größe der UV-Kugel und drücke dann <kbd> ESC </kbd>, um die Renderansicht zu verlassen.
 
 ![Unten anzeigen](images/blender-render-bottom-1.png)
 
-Wenn die Kugel zu groß aussieht, ändere die Größe erneut, indem du <kbd>S drückst</kbd> und dann die Maus ziehst. Rendern, um zu sehen, ob die Größe angemessen ist. Zum Beispiel:
+Wenn die Kugel zu groß aussieht, ändere die Größe erneut, indem du <kbd>S</kbd> drückst und dann die Maus ziehst. Rendern, um zu sehen, ob die Größe angemessen ist. Zum Beispiel:
 
 ![Unten erneut rendern](images/blender-render-bottom-2.png)
