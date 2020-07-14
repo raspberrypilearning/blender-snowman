@@ -36,14 +36,14 @@ Du siehst Bögen oder kleine Kurven, mit denen die Nase manipuliert und geformt 
 
 Verwende die Kurve (rot, blau oder grün), mit der die Nase in die gewünschte Richtung gedreht werden kann. Zum Beispiel:
 
-![Nase drehen](images/blender-rotate-cone-1.png)
+![Die Nase drehen](images/blender-rotate-cone-1.png)
 
-![Nase weiter drehen](images/blender-rotate-cone-2.png)
+![Die Nase weiter drehen](images/blender-rotate-cone-2.png)
 
 + Wechsel zurück zum Verschiebungswerkzeug.
 
 + Positioniere die Nase richtig mit den blauen, grünen und roten Griffen.
 
-![Nase positionieren](images/blender-rotate-cone-3.png)
+![Die Nase positionieren](images/blender-rotate-cone-3.png)
 
-+ Jetzt rendern und überprüfen, wie der Schneemann aussieht. Ist die Nase richtig positioniert? Du musst die Nase drehen, um sie richtig auf den Kopf des Schneemann zu platzieren.
++ Jetzt rendere und überprüfe, wie der Schneemann aussieht. Ist die Nase richtig positioniert? Du musst die Nase drehen, um sie richtig auf den Kopf des Schneemann zu platzieren.
