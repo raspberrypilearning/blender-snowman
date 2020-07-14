@@ -16,7 +16,7 @@ software: blender
 version: 4
 last_tested: 2020-01-28
 steps:
-  - title: Einführung
+  - title: Einleitung
   - title: "Schneemann Unterteil"
   - title: "Schneemann Kopf"
   - title: "Schneemann Nase"
