@@ -1,19 +1,19 @@
-## Snowman's hat
+## El sombrero del hombre de nieve
 
-Now let's add a hat to the snowman. The hat will be made from a cylinder.
+Ahora le añadiremos un sombrero al muñeco de nieve. El sombrero estará hecho de un cilindro.
 
-+ Add a **Cylinder** from the **Add** dropdown menu's **Mesh** section.
++ Añade un **cilindro** desde la sección **Añadir** del menú desplegable**Mesh**.
 
-The cylinder might be added inside the UV sphere, so once again use the blue handle to move it upwards.
+El cilindro puede insertarse dentro de la esfera UV, por lo que una vez más, usa el mando azul para moverlo hacia arriba.
 
-![Drag cylinder](images/blender-drag-cylinder.png)
+![Arrastrar cilindro](images/blender-drag-cylinder.png)
 
-+ Resize the cylinder using the shortcut key <kbd>S</kbd>, moving the mouse towards the middle of the cylinder to make it smaller.
++ Ajusta el tamaño del cilindro con la tecla de acceso directo <kbd>S</kbd> moviendo el mouse hacia el centro del cilindro para hacerlo más pequeño.
 
-![Resize cylinder](images/blender-resize-cylinder.png)
+![Ajustar el tamaño del cilindro](images/blender-resize-cylinder.png)
 
-+ Move the cylinder on top of the snowman's head using the blue, green, and red move handles.
++ Mueve el cilindro en la parte superior de la cabeza del muñeco de nieve con los mandos de movimiento azul, verde y rojo.
 
-+ Render to see what the snowman looks like. For example:
++ Renderiza la imagen otra vez para ver como se ve. Por ejemplo:
 
-![Render the snowman](images/blender-render-snowman-1.png)
+![Renderiza el muñeco de nieve](images/blender-render-snowman-1.png)
