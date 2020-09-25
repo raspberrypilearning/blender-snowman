@@ -1,7 +1,7 @@
-## Challenge: eyes, arms, and buttons
+## Desafío: ojos, brazos y botones
 
-+ Give the snowman some eyes, buttons, and arms.
++ Colócale al muñeco de nieve algunos ojos, botones y brazos.
 
-![Eyes buttons and arms](images/blender-snowman.png)
+![Ojos botones y brazos](images/blender-snowman.png)
 
-+ Perhaps you could add a scarf?
++ ¿Quizás podrías añadir una bufanda?
