@@ -2,7 +2,7 @@
 
 Ahora le añadiremos un sombrero al muñeco de nieve. El sombrero estará hecho de un cilindro.
 
-+ Añade un **cilindro** desde la sección **Añadir** del menú desplegable**Mesh**.
++ Añade un **cilindro** desde la sección **Agregar** del menú desplegable**Malla**.
 
 El cilindro puede insertarse dentro de la esfera UV, por lo que una vez más, usa el mando azul para moverlo hacia arriba.
 
