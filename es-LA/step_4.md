@@ -2,7 +2,7 @@
 
 Por lo general, la nariz de un muñeco de nieve está hecha de una zanahoria; nosotros vamos a usar un cono para ello.
 
-+ Ve al menú desplegable **Añadir** y selecciona **Cono** en la sección **Mesh**.
++ Ve al menú desplegable **Agregar** y selecciona **Cono** en la sección **Malla**.
 
 + El cono probablemente se agregará dentro de la base del muñeco otra vez, usa el mando de movimiento azul para llevarlo hacia arriba.
 
