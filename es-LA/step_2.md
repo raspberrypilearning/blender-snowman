@@ -12,7 +12,7 @@ Para crear un muñeco de nieve no vamos a necesitar un cubo. En su lugar, tenemo
 
 Ahora necesitamos añadir una esfera.
 
-+ Haga clic en **Agregar** menú desplegable en la esquina superior izquierda de la Vista 3D, luego seleccione **Malla** > **Esfera UV**.
++ Haga clic en **Agregar** menú desplegable en la esquina superior izquierda de la Vista 3D, luego seleccione **Malla** > **Esfera**.
 
 ![Esfera UV](images/uv-sphere.png)
 
