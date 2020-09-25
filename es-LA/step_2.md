@@ -1,53 +1,53 @@
-## Snowman's bottom
+## La base del muñeco de nieve
 
-+ Open Blender.
++ Abre Blender.
 
-+ For this tutorial we won't be needing the splash screen, so click to the right and the splash screen will disappear.
++ Para este tutorial no necesitaremos la pantalla de inicio, haz clic a la derecha de la pantalla para hacerla desaparecer.
 
-To create a snowman, we won't be needing a cube. Instead we need to add a ball or sphere.
+Para crear un muñeco de nieve no vamos a necesitar un cubo. En su lugar, tenemos que añadir una bola o una esfera.
 
-+ Remove the cube by selecting the cube, pressing <kbd>X</kbd>, and then pressing <kbd>Enter</kbd>.
++ Retira el cubo seleccionando el cubo, presionando <kbd>X</kbd>, y luego presionando <kbd>Enter</kbd>.
 
-![Remove cube](images/remove-cube.png)
+![Retirar el cubo](images/remove-cube.png)
 
-Now we need to add a sphere.
+Ahora necesitamos añadir una esfera.
 
-+ Click the **Add** dropdown menu in the top left corner of the 3D View, then select **Mesh** > **UV Sphere**.
++ Haga clic en ** Agregar ** menú desplegable en la esquina superior izquierda de la Vista 3D, luego seleccione ** Malla ** > ** Esfera UV ** .
 
-![UV Sphere](images/uv-sphere.png)
+![Esfera UV](images/uv-sphere.png)
 
-By adding the UV Sphere, we have created a nice round bottom for the snowman.
+Al añadir la Esfera UV, hemos creado una buena base redonda para el muñeco de nieve.
 
-+ To see what it looks like, press <kbd>F12</kbd> (or if you're working on a Mac, <kbd>FN + F12</kbd>) to render your image.
++ Para ver cómo se ve, presiona <kbd>F12</kbd> (o si estás usando una Mac, <kbd>FN + F12</kbd>) para renderizar tu imagen.
 
-The snowman's bottom looks a bit too small, so let's resize the UV sphere.
+La base del muñeco de nieve se ve un poco pequeña, así que vamos a cambiar el tamaño de la esfera UV.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Presiona <kbd>ESC</kbd> para salir de la vista.
 
-+ Make sure the UV sphere and the **Scale** tool (in the left-hand panel) are selected, then use the blue, green, and red handles to resize it.
++ Asegúrese de que la esfera UV y la herramienta **Escalar** (en el panel de la izquierda) estén seleccionadas, luego use las asas azules, verdes y rojas para redimensionarlas.
 
-![Cube ends](images/scale-tool.png)
+![Extremos del Cubo](images/scale-tool.png)
 
-You'll probably notice that it's hard to get the proper shape using the handles. It might end up looking like a giant egg. For example:
+Probablemente notarás que es difícil obtener la forma adecuada utilizando los mandos. Podría terminar pareciéndose a un huevo gigante. Por ejemplo:
 
-![Egg bottom](images/blender-snowman-egg-bottom.png)
+![Base con forma de huevo](images/blender-snowman-egg-bottom.png)
 
-However, there is another way to do this.
+Sin embargo, hay otra forma de hacer esto.
 
-+ First, remove the UV sphere and add another one.
++ Primero, vamos a retirar la esfera UV y añadir otra.
 
-+ Make sure your mouse is in the 3D view and the new UV sphere is selected. Press <kbd>S</kbd> — now you can uniformly resize the UV sphere by just dragging your mouse.
++ Asegúrate de que tu mouse se encuentre en la vista 3D y que la nueva esfera UV esté seleccionada. Presiona <kbd>S</kbd> — ahora puedes cambiar de manera uniforme el tamaño de la esfera UV con solo arrastrar el mouse.
 
-![Resize bottom](images/blender-snowman-resize-bottom-1.png)
+![Ajustar el tamaño de la base](images/blender-snowman-resize-bottom-1.png)
 
-When it's as big as you want it to be, just left click to confirm the size.
+Cuando sea del tamaño que quieras, solo haz clic izquierdo para confirmar el tamaño.
 
-You can check the size of the UV sphere by rendering it.
+Puedes verificar el tamaño de la esfera UV al renderizarla.
 
-+ Press <kbd>F12</kbd> or <kbd>FN + F12</kbd> if you're working on a Mac. Check the size of the UV sphere, then press <kbd>ESC</kbd> to exit the render view.
++ Presiona <kbd>F12</kbd> o <kbd>FN + F12</kbd> si estás usando una Mac. Verifica el tamaño de la esfera UV, luego presiona <kbd>ESC</kbd> para salir de la vista de renderización.
 
-![Render bottom](images/blender-render-bottom-1.png)
+![Renderizar la base](images/blender-render-bottom-1.png)
 
-If the sphere looks too big, resize it again by pressing <kbd>S</kbd> and then dragging the mouse. Render to see if the size is appropriate. For example:
+Si la esfera parece demasiado grande, cambia su tamaño nuevamente presionando <kbd>S</kbd> y luego arrastrando el mouse. Renderiza para ver si el tamaño es apropiado. Por ejemplo:
 
-![Render bottom again](images/blender-render-bottom-2.png)
+![Renderizar la base nuevamente](images/blender-render-bottom-2.png)
