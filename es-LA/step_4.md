@@ -1,49 +1,49 @@
-## Snowman's nose
+## La nariz del muñeco de nieve
 
-Usually a snowman's nose is made of a carrot — we'll use a cone for it.
+Por lo general, la nariz de un muñeco de nieve está hecha de una zanahoria; nosotros vamos a usar un cono para ello.
 
-+ Go to the **Add** dropdown menu and select **Cone** from the **Mesh** section.
++ Ve al menú desplegable **Añadir** y selecciona **Cono** en la sección **Mesh**.
 
-+ The cone will probably be added inside the bottom again, so use the blue move handle to move it up.
++ El cono probablemente se agregará dentro de la base del muñeco otra vez, usa el mando de movimiento azul para llevarlo hacia arriba.
 
-![Drag cone](images/blender-drag-cone-1.png)
+![Arrastrar el cono](images/blender-drag-cone-1.png)
 
-![Cone appears](images/blender-drag-cone-2.png)
+![Aparece el cono](images/blender-drag-cone-2.png)
 
-The cone might look too big to be the nose, so you need to resize it.
+El cono puede parecer demasiado grande para ser la nariz, por lo que necesitas cambiar su tamaño.
 
-+ Resize the cone either using the shortcut key <kbd>S</kbd> or the scale tool, which might be a bit handier for this purpose.
++ Redimensionar el cono usando la tecla de acceso directo <kbd>S</kbd> o la herramienta de escala, que podría ser un poco más resistente para este propósito.
 
-For example:
+Por ejemplo:
 
-![Resize the cone](images/blender-resize-cone.png)
+![Ajustar el tamaño del cono](images/blender-resize-cone.png)
 
-+ After you have resized the cone, use the move tool to shift it onto the side of the snowman's head, just where the nose should be:
++ Después de cambiar el tamaño del cono, use la herramienta de movimiento para desplazarlo hacia un lado de la cabeza del muñeco de nieve, justo donde debe estar la nariz:
 
-For example:
+Por ejemplo:
 
-![Position the cone](images/blender-position-cone-2.png)
+![Ubicar el cono](images/blender-position-cone-2.png)
 
-You need to rotate the nose to stick it properly onto the snowman's head. For this you will use the rotation tool.
+Necesitas girar la nariz para pegarla correctamente en la cabeza del muñeco de nieve. Para esto utilizarás la herramienta de rotación.
 
-![Position the cone](images/rotate-tool.png)
+![Ubicar el cono](images/rotate-tool.png)
 
-+ Make sure the nose cone is selected, then select the rotation tool (the arc) from the lower menu.
++ Asegúrate de que el cono de la nariz esté seleccionado, luego selecciona la herramienta de rotación (el arco) del menú inferior.
 
-You'll see arcs or little curves that you can use to manipulate and shape the nose.
+Verás arcos o pequeñas curvas que puedes usar para manipular y dar forma a la nariz.
 
-![Rotate the nose](images/blender-rotate-nose-tool.png)
+![Girar la nariz](images/blender-rotate-nose-tool.png)
 
-Use the curve (red, blue, or green) that will allow you to rotate the nose in the direction you want. For example:
+Usa la curva (rojo, azul o verde) que te permitirá girar la nariz en la dirección que desees. Por ejemplo:
 
-![Rotate the nose](images/blender-rotate-cone-1.png)
+![Girar la nariz](images/blender-rotate-cone-1.png)
 
-![Rotate the nose more](images/blender-rotate-cone-2.png)
+![Girar más la nariz](images/blender-rotate-cone-2.png)
 
-+ Switch back to the move tool.
++ Vuelve a la herramienta de movimiento.
 
-+ Position the nose properly using the blue, green, and red handles.
++ Ubica la nariz de forma correcta usando los mandos azul, verde y rojo.
 
-![Position the nose](images/blender-rotate-cone-3.png)
+![Ubicar el cono](images/blender-rotate-cone-3.png)
 
-+ Now render and check how the snowman looks. Is the nose positioned properly? Does your model resemble a snowman?
++ Ahora renderiza y comprueba cómo se ve el muñeco de nieve. ¿La nariz está ubicada correctamente? ¿Tu modelo se parece a un muñeco de nieve?
