@@ -1,35 +1,35 @@
-## Snowman's head
+## La cabeza del muñeco de nieve
 
-Now we need a head for the snowman.
+Ahora necesitaremos una cabeza para el muñeco de nieve.
 
-+ Add another UV sphere.
++ Añade otra esfera UV.
 
-If it looks like no new sphere has appeared, don't worry — you might not be able to see it, because it was added inside the snowman's bottom. We need to drag it out.
+Si sucede que no logras ver la nueva esfera, no te preocupes, es posible que no puedas verla porque se agregó dentro de la base del muñeco de nieve. Vamos a tener que arrastrarla fuera de la esfera.
 
-+ Select the move tool from the left menu.
++ Seleccione la herramienta mover del menú superior.
 
-![Arrow ends](images/move-tool.png)
+![Extremos de las flechas](images/move-tool.png)
 
-+ Drag the UV sphere out using the blue handle (z-axis), and place it on top of the other sphere to make the head.
++ Arrastra la esfera UV con el mando azul (eje z) y colócala encima de la otra esfera para formar la cabeza.
 
-![Add the head](images/blender-snowman-add-head.png)
+![Añadir la cabeza](images/blender-snowman-add-head.png)
 
-+ Now render your image to see what it looks like. For example:
++ Ahora renderiza tu imagen para ver cómo se ve. Por ejemplo:
 
-![Render the head](images/blender-head-render-1.png)
+![Renderizar la cabeza](images/blender-head-render-1.png)
 
-The head may look a bit big, so let's shrink it down.
+Puede ser que la cabeza se vea un poco grande, así que vamos a reducir su tamaño.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Presiona <kbd>ESC</kbd> para salir de la vista de renderización.
 
-+ Select the head UV sphere, then press <kbd>S</kbd> to resize the object. Drag and move the mouse towards the centre of the object to make it smaller.
++ Selecciona la esfera UV de la cabeza y, a continuación, presiona <kbd>S</kbd> para ajustar su tamaño. Arrastra y mueve el mouse hacia el centro del objeto para hacerlo más pequeño.
 
-+ Render again to see what the image looks like. For example:
++ Renderiza la imagen otra vez para ver cómo se ve. Por ejemplo:
 
-![Render the head again](images/blender-head-render-2.png)
+![Renderizar la cabeza otra vez](images/blender-head-render-2.png)
 
-If the head is too small or large, resize it to make it look right.
+Si la cabeza es demasiado pequeña o grande, ajusta su tamaño para que se vea bien.
 
-+ The head might not be stuck onto the snowman's bottom in the right position. Move the head onto the bottom using the handles. Check what it looks like by rendering the image. For example:
++ La cabeza podría no estar colocada sobre la base del muñeco en la posición correcta. Mueva la cabeza hacia la base usando los mandos. Comprueba cómo se ve al renderizar la imagen. Por ejemplo:
 
-![Render the head on the bottom](images/blender-head-render-3.png)
+![Renderizar la cabeza en la base](images/blender-head-render-3.png)
