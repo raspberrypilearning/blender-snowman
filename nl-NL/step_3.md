@@ -1,35 +1,35 @@
-## Snowman's head
+## Hoofd van de sneeuwpop
 
-Now we need a head for the snowman.
+Nu hebben we een hoofd nodig voor de sneeuwpop.
 
-+ Add another UV sphere.
++ Voeg nog een UV-bol toe.
 
-If it looks like no new sphere has appeared, don't worry — you might not be able to see it, because it was added inside the snowman's bottom. We need to drag it out.
+Als het lijkt alsof er geen nieuwe bol is verschenen, hoef je je geen zorgen te maken — je kunt het misschien niet zien, omdat het aan de onderkant van de sneeuwpop is toegevoegd. We moeten het eruit slepen.
 
-+ Select the move tool from the left menu.
++ Selecteer het move (verplaats) gereedschap uit het linkermenu.
 
-![Arrow ends](images/move-tool.png)
+![Pijluiteinden](images/move-tool.png)
 
-+ Drag the UV sphere out using the blue handle (z-axis), and place it on top of the other sphere to make the head.
++ Sleep de UV-bol naar buiten met de blauwe hendel (z-as) en plaats deze bovenop de andere bol om het hoofd te maken.
 
-![Add the head](images/blender-snowman-add-head.png)
+![Voeg het hoofd toe](images/blender-snowman-add-head.png)
 
-+ Now render your image to see what it looks like. For example:
++ Render nu je afbeelding om te zien hoe deze eruitziet. Bijvoorbeeld:
 
-![Render the head](images/blender-head-render-1.png)
+![Render het hoofd](images/blender-head-render-1.png)
 
-The head may look a bit big, so let's shrink it down.
+Het hoofd ziet er misschien wat groot uit, dus laten we het verkleinen.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Druk op <kbd>ESC</kbd> om de renderweergave te verlaten.
 
-+ Select the head UV sphere, then press <kbd>S</kbd> to resize the object. Drag and move the mouse towards the centre of the object to make it smaller.
++ Selecteer de UV-bol van het hoofd en druk op <kbd>S</kbd> om de grootte van het object te wijzigen. Sleep en verplaats de muis naar het midden van het object om het kleiner te maken.
 
-+ Render again to see what the image looks like. For example:
++ Render opnieuw om te zien hoe de afbeelding eruitziet. Bijvoorbeeld:
 
-![Render the head again](images/blender-head-render-2.png)
+![Render het hoofd opnieuw](images/blender-head-render-2.png)
 
-If the head is too small or large, resize it to make it look right.
+Als het hoofd te klein of te groot is, pas de grootte dan aan om het er goed uit te laten zien.
 
-+ The head might not be stuck onto the snowman's bottom in the right position. Move the head onto the bottom using the handles. Check what it looks like by rendering the image. For example:
++ Het hoofd zit misschien niet op de juiste plaats op de onderkant van de sneeuwpop. Beweeg het hoofd met de handvatten en plaats het op de onderkant. Controleer hoe het eruit ziet door de afbeelding te renderen. Bijvoorbeeld:
 
-![Render the head on the bottom](images/blender-head-render-3.png)
+![Render het hoofd op de onderkant](images/blender-head-render-3.png)
