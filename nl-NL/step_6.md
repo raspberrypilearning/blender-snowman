@@ -1,7 +1,7 @@
-## Challenge: eyes, arms, and buttons
+## Uitdaging: ogen, armen en knopen
 
-+ Give the snowman some eyes, buttons, and arms.
++ Geef de sneeuwpop wat ogen, knopen en armen.
 
-![Eyes buttons and arms](images/blender-snowman.png)
+![Ogen, knoppen en armen](images/blender-snowman.png)
 
-+ Perhaps you could add a scarf?
++ Misschien kun je daar een sjaal aan toevoegen?
