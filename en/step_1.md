@@ -44,7 +44,7 @@ Use the link in the footer to access the GitHub repository for this project, whi
 
 If you prefer, you can watch the whole resource as a video tutorial:
 
-<iframe width="560" height="315" src="https://https://www.youtube.com/embed/-BDjqjdWt7w" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-BDjqjdWt7w" frameborder="0" allowfullscreen></iframe>
 
 ### License
 

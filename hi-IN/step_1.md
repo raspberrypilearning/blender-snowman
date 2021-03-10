@@ -44,7 +44,7 @@ title: आपको किन चीज़ों की आवश्यकता �
 
 यदि आप चाहें, तो आप संपूर्ण संसाधन को वीडियो ट्यूटोरियल के रूप में देख सकते हैं: 
 
-<iframe width="560" height="315" src="https://https://www.youtube.com/embed/-BDjqjdWt7w" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-BDjqjdWt7w" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### लाइसेंस
 
