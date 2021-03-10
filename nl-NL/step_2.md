@@ -1,53 +1,53 @@
-## Snowman's bottom
+## Onderkant van de sneeuwpop
 
 + Open Blender.
 
-+ For this tutorial we won't be needing the splash screen, so click to the right and the splash screen will disappear.
++ Voor deze tutorial hebben we het startscherm niet nodig, dus klik rechts ervan en het startscherm zal verdwijnen.
 
-To create a snowman, we won't be needing a cube. Instead we need to add a ball or sphere.
+Om een sneeuwpop te maken, hebben we geen kubus nodig. In plaats daarvan moeten we een bal of bol toevoegen.
 
-+ Remove the cube by selecting the cube, pressing <kbd>X</kbd>, and then pressing <kbd>Enter</kbd>.
++ Verwijder de kubus door de kubus te selecteren, op <kbd>X</kbd> te drukken en vervolgens op <kbd>Enter</kbd> te drukken.
 
-![Remove cube](images/remove-cube.png)
+![Verwijder kubus](images/remove-cube.png)
 
-Now we need to add a sphere.
+Nu moeten we een bol toevoegen.
 
-+ Click the **Add** dropdown menu in the top left corner of the 3D View, then select **Mesh** > **UV Sphere**.
++ Klik op het **Toevoegen** dropdown menu in de linkerbovenhoek van de 3D-weergave, selecteer dan **Mesh** > **UV Bol**.
 
-![UV Sphere](images/uv-sphere.png)
+![UV-bol](images/uv-sphere.png)
 
-By adding the UV Sphere, we have created a nice round bottom for the snowman.
+Door de UV-bol toe te voegen, hebben we een mooie ronde onderkant voor de sneeuwpop gemaakt.
 
-+ To see what it looks like, press <kbd>F12</kbd> (or if you're working on a Mac, <kbd>FN + F12</kbd>) to render your image.
++ Om te zien hoe het eruitziet, druk op <kbd>F12</kbd> (of als je op een Mac werkt, <kbd>FN + F12</kbd>) om je afbeelding te renderen.
 
-The snowman's bottom looks a bit too small, so let's resize the UV sphere.
+De onderkant van de sneeuwpop ziet er iets te klein uit, dus laten we de grootte van de UV-bol aanpassen.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Druk op <kbd>ESC</kbd> om de renderweergave te verlaten.
 
-+ Make sure the UV sphere and the **Scale** tool (in the left-hand panel) are selected, then use the blue, green, and red handles to resize it.
++ Zorg ervoor dat de UV-bol en het **Schaal**-gereedschap (in het linkerdeelvenster) zijn geselecteerd en gebruik vervolgens de blauwe, groene en rode handvatten om het formaat te wijzigen.
 
-![Cube ends](images/scale-tool.png)
+![Kubus eindigt](images/scale-tool.png)
 
-You'll probably notice that it's hard to get the proper shape using the handles. It might end up looking like a giant egg. For example:
+Je zult waarschijnlijk merken dat het moeilijk is om de juiste vorm te krijgen met behulp van de handvatten. Het kan er uiteindelijk uitzien als een gigantisch ei. Bijvoorbeeld:
 
-![Egg bottom](images/blender-snowman-egg-bottom.png)
+![Eieronderkant](images/blender-snowman-egg-bottom.png)
 
-However, there is another way to do this.
+Er is echter een andere manier om dit te doen.
 
-+ First, remove the UV sphere and add another one.
++ Verwijder eerst de UV-bol en voeg er nog een toe.
 
-+ Make sure your mouse is in the 3D view and the new UV sphere is selected. Press <kbd>S</kbd> — now you can uniformly resize the UV sphere by just dragging your mouse.
++ Zorg ervoor dat je muis zich in de 3D-weergave bevindt en dat de nieuwe UV-bol is geselecteerd. Druk op <kbd>S</kbd> — nu kun je de grootte van de UV-bol gelijkmatig aanpassen door gewoon je muis te slepen.
 
-![Resize bottom](images/blender-snowman-resize-bottom-1.png)
+![Grootte onderkant aanpassen](images/blender-snowman-resize-bottom-1.png)
 
-When it's as big as you want it to be, just left click to confirm the size.
+Als het zo groot is als je wilt, klik dan links om de grootte te bevestigen.
 
-You can check the size of the UV sphere by rendering it.
+Je kunt de grootte van de UV-bol controleren door deze te renderen.
 
-+ Press <kbd>F12</kbd> or <kbd>FN + F12</kbd> if you're working on a Mac. Check the size of the UV sphere, then press <kbd>ESC</kbd> to exit the render view.
++ Druk op <kbd>F12</kbd> of <kbd>FN + F12</kbd> als je op een Mac werkt. Controleer de grootte van de UV-bol en druk op <kbd>ESC</kbd> om de renderweergave te verlaten.
 
-![Render bottom](images/blender-render-bottom-1.png)
+![Onderkant renderen](images/blender-render-bottom-1.png)
 
-If the sphere looks too big, resize it again by pressing <kbd>S</kbd> and then dragging the mouse. Render to see if the size is appropriate. For example:
+Als de bol te groot lijkt, verklein het weer door op <kbd>S</kbd> te drukken en vervolgens de muis te slepen. Render om te zien of de grootte geschikt is. Bijvoorbeeld:
 
-![Render bottom again](images/blender-render-bottom-2.png)
+![Render de onderkant opnieuw](images/blender-render-bottom-2.png)
