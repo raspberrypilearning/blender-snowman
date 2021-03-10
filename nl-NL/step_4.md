@@ -1,49 +1,49 @@
-## Snowman's nose
+## Neus van de sneeuwpop
 
-Usually a snowman's nose is made of a carrot — we'll use a cone for it.
+Meestal is de neus van een sneeuwpop gemaakt van een wortel — daarvoor gebruiken we een kegel.
 
-+ Go to the **Add** dropdown menu and select **Cone** from the **Mesh** section.
++ Ga naar het **Toevoegen** menu toe en selecteer **Kegel** uit de **Mesh** sectie.
 
-+ The cone will probably be added inside the bottom again, so use the blue move handle to move it up.
++ De kegel zal waarschijnlijk opnieuw binnenin de onderkant worden toegevoegd, dus gebruik het blauwe handvat om hem omhoog te bewegen.
 
-![Drag cone](images/blender-drag-cone-1.png)
+![Sleep kegel](images/blender-drag-cone-1.png)
 
-![Cone appears](images/blender-drag-cone-2.png)
+![Kegel verschijnt](images/blender-drag-cone-2.png)
 
-The cone might look too big to be the nose, so you need to resize it.
+De kegel ziet er misschien te groot uit om de neus te zijn, dus moet je de grootte wijzigen.
 
-+ Resize the cone either using the shortcut key <kbd>S</kbd> or the scale tool, which might be a bit handier for this purpose.
++ Pas de grootte van de kegel aan met behulp van de sneltoets <kbd>S</kbd> of het schaalgereedschap, wat voor dit doel misschien wat handiger is.
 
-For example:
+Bijvoorbeeld:
 
-![Resize the cone](images/blender-resize-cone.png)
+![Grootte van de kegel wijzigen](images/blender-resize-cone.png)
 
-+ After you have resized the cone, use the move tool to shift it onto the side of the snowman's head, just where the nose should be:
++ Nadat je het formaat van de kegel hebt aangepast, gebruik je het verplaatsgereedschap om het naar de zijkant van het hoofd van de sneeuwpop te schuiven, precies waar de neus zou moeten zijn:
 
-For example:
+Bijvoorbeeld:
 
-![Position the cone](images/blender-position-cone-2.png)
+![Plaats de kegel](images/blender-position-cone-2.png)
 
-You need to rotate the nose to stick it properly onto the snowman's head. For this you will use the rotation tool.
+Je moet de neus draaien om hem goed op het hoofd van de sneeuwpop te plakken. Hiervoor gebruik je het rotatiegereedschap.
 
-![Position the cone](images/rotate-tool.png)
+![Plaats de kegel](images/rotate-tool.png)
 
-+ Make sure the nose cone is selected, then select the rotation tool (the arc) from the lower menu.
++ Zorg ervoor dat de neuskegel is geselecteerd en selecteer vervolgens het rotatie gereedschap (de boog) in het onderste menu.
 
-You'll see arcs or little curves that you can use to manipulate and shape the nose.
+Je ziet bogen of kleine rondingen die je kunt gebruiken om de neus te manipuleren en vorm te geven.
 
-![Rotate the nose](images/blender-rotate-nose-tool.png)
+![Roteer de neus](images/blender-rotate-nose-tool.png)
 
-Use the curve (red, blue, or green) that will allow you to rotate the nose in the direction you want. For example:
+Gebruik de boog (rood, blauw of groen) waarmee je de neus kunt draaien in de richting die je wilt. Bijvoorbeeld:
 
-![Rotate the nose](images/blender-rotate-cone-1.png)
+![Roteer de neus](images/blender-rotate-cone-1.png)
 
-![Rotate the nose more](images/blender-rotate-cone-2.png)
+![Roteer de neus meer](images/blender-rotate-cone-2.png)
 
-+ Switch back to the move tool.
++ Ga terug naar het verplaatsgereedschap.
 
-+ Position the nose properly using the blue, green, and red handles.
++ Plaats de neus op de juiste manier met behulp van de blauwe, groene en rode handvatten.
 
-![Position the nose](images/blender-rotate-cone-3.png)
+![Plaats de neus](images/blender-rotate-cone-3.png)
 
-+ Now render and check how the snowman looks. Is the nose positioned properly? Does your model resemble a snowman?
++ Render nu en controleer hoe de sneeuwpop eruitziet. Is de neus goed geplaatst? Lijkt je model op een sneeuwpop?
