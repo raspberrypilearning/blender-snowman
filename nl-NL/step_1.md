@@ -40,7 +40,7 @@ title: "Wat heb je nodig"
 
 Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/blender-snowman/print){:target="_blank"}.
 
-Gebruik de link onderaan de pagina om toegang tot de GitHub repository voor dit project te krijgen, hier vind je alle bronnen (waaronder een voltooid project) in de 'en/resources' map.
+Gebruik de link onderaan de pagina om toegang tot de GitHub repository voor dit project te krijgen, hier vind je alle bronnen (waaronder een voltooid project) in de 'nl-NL/resources' map.
 
 Als je wilt, kun je het hele project in een zelfstudie video bekijken: 
 <iframe width="560" height="315" src="https://https://www.youtube.com/embed/-BDjqjdWt7w" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
