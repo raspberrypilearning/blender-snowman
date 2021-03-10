@@ -1,19 +1,19 @@
-## Snowman's hat
+## Hoed van de sneeuwpop
 
-Now let's add a hat to the snowman. The hat will be made from a cylinder.
+Laten we nu een hoed aan de sneeuwpop toevoegen. De hoed wordt gemaakt met een cilinder.
 
-+ Add a **Cylinder** from the **Add** dropdown menu's **Mesh** section.
++ Voeg een **Cilinder** uit het **Toevoegen** menu en dan de **Mesh** sectie toe.
 
-The cylinder might be added inside the UV sphere, so once again use the blue handle to move it upwards.
+De cilinder kan in de UV-bol zijn toegevoegd, dus gebruik opnieuw het blauwe handvat om hem omhoog te bewegen.
 
-![Drag cylinder](images/blender-drag-cylinder.png)
+![Sleep cilinder](images/blender-drag-cylinder.png)
 
-+ Resize the cylinder using the shortcut key <kbd>S</kbd>, moving the mouse towards the middle of the cylinder to make it smaller.
++ Pas de grootte van de cilinder aan met de sneltoets <kbd>S</kbd>, door de muis naar het midden van de cilinder te bewegen om deze kleiner te maken.
 
-![Resize cylinder](images/blender-resize-cylinder.png)
+![Grootte cilinder wijzigen](images/blender-resize-cylinder.png)
 
-+ Move the cylinder on top of the snowman's head using the blue, green, and red move handles.
++ Plaats de cilinder bovenop het hoofd van de sneeuwpop met behulp van de blauwe, groene en rode verplaatsingshandvatten.
 
-+ Render to see what the snowman looks like. For example:
++ Render om te zien hoe de sneeuwpop eruit ziet. Bijvoorbeeld:
 
-![Render the snowman](images/blender-render-snowman-1.png)
+![Render de sneeuwpop](images/blender-render-snowman-1.png)
