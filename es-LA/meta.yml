@@ -17,10 +17,12 @@ version: 4
 last_tested: 2020-01-28
 steps:
 - title: Introducción
-  completion: engaged
 - title: La base del muñeco de nieve
 - title: La cabeza del muñeco de nieve
+  completion:
+  - engaged
 - title: La nariz del muñeco de nieve
 - title: El sombrero del muñeco de nieve
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafío: ojos, brazos y botones'

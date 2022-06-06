@@ -17,10 +17,12 @@ version: 4
 last_tested: 2020-01-28
 steps:
 - title: परिचय
-  completion: engaged
 - title: स्नोमैन का निचला हिस्सा
 - title: स्नोमैन का सिर
+  completion:
+  - engaged
 - title: स्नोमैन की नाक
 - title: स्नोमैन की टोपी
-  completion: internal
+  completion:
+  - internal
 - title: 'चुनौती: आँखें, भुजाएँ, और बटन'

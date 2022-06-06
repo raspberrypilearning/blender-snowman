@@ -17,10 +17,12 @@ version: 4
 last_tested: 2020-01-28
 steps:
 - title: Introduction
-  completion: engaged
 - title: Snowman's bottom
 - title: Snowman's head
+  completion:
+  - engaged
 - title: Snowman's nose
 - title: Snowman's hat
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: eyes, arms, and buttons'

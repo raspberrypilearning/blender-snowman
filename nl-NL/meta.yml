@@ -17,10 +17,12 @@ version: 4
 last_tested: 2020-01-28
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Onderkant van de sneeuwpop
 - title: Hoofd van de sneeuwpop
+  completion:
+  - engaged
 - title: Neus van de sneeuwpop
 - title: Hoed van de sneeuwpop
-  completion: internal
+  completion:
+  - internal
 - title: 'Uitdaging: ogen, armen en knopen'
