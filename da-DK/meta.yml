@@ -1,0 +1,23 @@
+title: Snemand
+hero_image: images/banner.png
+description: Byg en 3D model af en snemand ved at bruge Blender
+theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: art
+technologies: blender
+site_areas: projects
+hardware: ''
+software: blender
+version: 4
+last_tested: 2020-01-28
+steps:
+- title: Introduktion
+- title: Snemandens krop
+- title: Snemandens hoved
+- title: Snemandens næse
+- title: Snemandens hat
+- title: "Udfordring: øjne, arme, og knapper"
