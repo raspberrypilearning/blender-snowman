@@ -26,3 +26,5 @@ steps:
   completion:
   - internal
 - title: 'Challenge: eyes, arms, and buttons'
+  completion:
+  - external
