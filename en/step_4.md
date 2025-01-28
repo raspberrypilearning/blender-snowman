@@ -1,69 +1,49 @@
 ## Snowman's nose
 
---- task ---
+Usually a snowman's nose is made of a carrot — we'll use a cone for it.
 
-Go to the **Add** dropdown menu. Add a **Cone** from the **Mesh** section.
++ Go to the **Add** dropdown menu and select **Cone** from the **Mesh** section.
 
-The cone will probably be added inside the sphere again, so use the blue move handle to move it up.
++ The cone will probably be added inside the bottom again, so use the blue move handle to move it up.
 
 ![Drag cone](images/blender-drag-cone-1.png)
 
 ![Cone appears](images/blender-drag-cone-2.png)
 
---- /task ---
+The cone might look too big to be the nose, so you need to resize it.
 
---- task ---
++ Resize the cone either using the shortcut key <kbd>S</kbd> or the scale tool, which might be a bit handier for this purpose.
 
-Resize the cone using the shortcut key <kbd>S</kbd>.
+For example:
 
 ![Resize the cone](images/blender-resize-cone.png)
 
---- /task ---
++ After you have resized the cone, use the move tool to shift it onto the side of the snowman's head, just where the nose should be:
 
---- task ---
-
-Use the move tool to position it to the side of the snowman's head.
+For example:
 
 ![Position the cone](images/blender-position-cone-2.png)
 
---- /task ---
+You need to rotate the nose to stick it properly onto the snowman's head. For this you will use the rotation tool.
 
---- task ---
+![Position the cone](images/rotate-tool.png)
 
-Select the rotation tool.
++ Make sure the nose cone is selected, then select the rotation tool (the arc) from the lower menu.
 
-![The rotation tool](images/rotate-tool.png)
+You'll see arcs or little curves that you can use to manipulate and shape the nose.
 
---- /task ---
+![Rotate the nose](images/blender-rotate-nose-tool.png)
 
-You will see arcs you can use to manipulate the nose.
+Use the curve (red, blue, or green) that will allow you to rotate the nose in the direction you want. For example:
 
---- task ---
+![Rotate the nose](images/blender-rotate-cone-1.png)
 
-Use the green arc to rotate the nose.
+![Rotate the nose more](images/blender-rotate-cone-2.png)
 
-![The nose rotated 90 degrees](images/blender-rotate-cone-1.png)
++ Switch back to the move tool.
 
---- /task ---
++ Position the nose properly using the blue, green, and red handles.
 
---- task ---
+![Position the nose](images/blender-rotate-cone-3.png)
 
-Switch back to the move tool.
-
-Position the nose using the blue, green, and red handles.
-
-![Position the nose](images/blender-position-cone-3.png)
-
---- /task ---
-
---- task ---
-
-Render to see how your snowman looks. 
-
-Is the nose positioned properly? Does your model resemble a snowman?
-
-If not - try resizing, moving and/or rotating parts again.
-
---- /task ---
-
---- save ---
++ Now render and check how the snowman looks. Is the nose positioned properly? Does your model resemble a snowman?

@@ -16,7 +16,7 @@ software: blender
 version: 4
 last_tested: 2020-01-28
 steps:
-- title: What you will make
+- title: Introduction
 - title: Snowman's bottom
 - title: Snowman's head
   completion:
@@ -25,8 +25,6 @@ steps:
 - title: Snowman's hat
   completion:
   - internal
-- title: Challenge
-  challenge: true
-- title: What can you do now?
+- title: 'Challenge: eyes, arms, and buttons'
   completion:
   - external

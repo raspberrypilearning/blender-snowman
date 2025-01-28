@@ -1,15 +1,7 @@
-## Challenge
+## Challenge: eyes, arms, and buttons
 
---- task ---
-
-Give the snowman some eyes, buttons, and arms.
++ Give the snowman some eyes, buttons, and arms.
 
 ![Eyes buttons and arms](images/blender-snowman.png)
 
---- /task ---
-
---- task ---
-
-Can you add a scarf?
-
---- /task ---
++ Perhaps you could add a scarf?
