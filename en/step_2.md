@@ -1,4 +1,4 @@
-## Snowman's bottom
+## Snowman's base
 
 --- task ---
 
@@ -39,7 +39,7 @@ Click 'Render Image' in the 'Render' menu to see what your snowman looks like so
 
 **Note**: This may take some time.
 
-![Render bottom](images/blender-render-bottom-1.png)
+![Render base](images/blender-render-base-1.png)
 
 --- /task ---
 
@@ -51,6 +51,6 @@ Press <kbd>ESC</kbd> to exit the render view.
 
 If the sphere looks too big, resize it again and then render to see if the size is appropriate. For example:
 
-![Render bottom again](images/blender-render-bottom-2.png)
+![Render base again](images/blender-render-base-2.png)
 
 --- save ---
