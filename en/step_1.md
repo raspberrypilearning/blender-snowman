@@ -1,4 +1,4 @@
-## Introduction
+## What you will make
 
 Here is how your finished piece will look.
 
