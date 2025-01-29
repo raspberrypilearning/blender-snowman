@@ -1,6 +1,6 @@
 ## What can you do now?
 
-If you are following the [Blender for beginners](https://projects.raspberrypi.org/en/pathways/blender-basics) pathway, you can move on to the [Colour a snowman](https://projects.raspberrypi.org/en/projects/next-project/blender-colour-snowman) project. In this project, you will create coloured materials and make your snowman look more realistic!
+If you are following the [Blender for beginners](https://projects.raspberrypi.org/en/pathways/blender-basics) pathway, you can move on to the [Colour a snowman](https://projects.raspberrypi.org/en/projects/blender-colour-snowman) project. In this project, you will create coloured materials and make your snowman look more realistic!
 
 --- print-only --- 
 
