@@ -2,7 +2,11 @@
 
 --- task ---
 
-Go to the **Add** dropdown menu. Add a **Cylinder** from the **Mesh** section.
+Go to the **Add** dropdown menu. 
+
+Open the **Mesh** section.
+
+Add a **Cylinder**.
 
 --- /task ---
 

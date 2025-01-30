@@ -2,7 +2,11 @@
 
 --- task ---
 
-Go to the **Add** dropdown menu. Add a **Cone** from the **Mesh** section.
+Go to the **Add** dropdown menu. 
+
+Open the **Mesh** section.
+
+Add a **Cone**.
 
 The cone will probably be added inside the sphere again, so use the blue move handle to move it up.
 
@@ -40,9 +44,9 @@ You will see arcs you can use to manipulate the nose.
 
 --- task ---
 
-Use the green arc to rotate the nose.
+Click and drag the arcs to rotate the nose.
 
-![The nose rotated 90 degrees](images/blender-rotate-cone-1.png)
+![The rotation arcs with the nose rotated 90 degrees](images/blender-rotate-cone-1.png)
 
 --- /task ---
 
@@ -58,7 +62,15 @@ Position the nose using the blue, green, and red handles.
 
 --- task ---
 
-Render to see how your snowman looks. 
+Render to see how your snowman looks.
+
+If the snowman is outside of the camera view, then select the whole snowman and click: View, Align View, Align Active Camera to Selected.
+
+--- /task ---
+
+--- task ---
+
+Check:
 
 Is the nose positioned properly? Does your model resemble a snowman?
 

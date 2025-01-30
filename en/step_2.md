@@ -2,7 +2,7 @@
 
 --- task ---
 
-Open Blender and exit the splash screen.
+Open Blender and exit the welcome screen by pressing <kbd>ESC</kbd>.
 
 --- /task ---
 
@@ -14,7 +14,11 @@ Select the cube and press the <kbd>X</kbd> or <kbd>delete</kbd> key to delete it
 
 --- task ---
 
-Go to the **Add** dropdown menu. Add a **UV Sphere** from the Mesh section.
+Go to the **Add** dropdown menu. 
+
+Open the **Mesh** section.
+
+Add a **UV Sphere**.
 
 ![Add UV Sphere](images/uv-sphere.png)
 

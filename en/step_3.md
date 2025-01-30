@@ -6,7 +6,7 @@ Add another UV sphere.
 
 --- /task ---
 
-**Note**: If it looks like no new sphere has appeared, don't worry — you might not be able to see it, because it was added inside the first sphere. 
+If it looks like no new sphere has appeared, don't worry — you might not be able to see it, because it was added inside the first sphere. 
 
 You need to drag it out.
 
@@ -27,12 +27,6 @@ Drag the UV sphere out using the blue handle (z-axis), and place it on top of th
 --- /task ---
 
 The head may look a bit big.
-
---- task ---
-
-Press <kbd>ESC</kbd> to exit render view.
-
---- /task ---
 
 --- task ---
 

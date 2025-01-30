@@ -1,5 +1,7 @@
 ## What you will make
 
+You will create a 3D model of a snowman.
+
 Here is how your finished piece will look.
 
 Click it and drag it around to see it in 3D!
