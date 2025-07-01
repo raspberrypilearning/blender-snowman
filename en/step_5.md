@@ -1,19 +1,41 @@
 ## Snowman's hat
 
-Now let's add a hat to the snowman. The hat will be made from a cylinder.
+--- task ---
 
-+ Add a **Cylinder** from the **Add** dropdown menu's **Mesh** section.
+Go to the **Add** dropdown menu. 
 
-The cylinder might be added inside the UV sphere, so once again use the blue handle to move it upwards.
+Open the **Mesh** section.
 
-![Drag cylinder](images/blender-drag-cylinder.png)
+Add a **Cylinder**.
 
-+ Resize the cylinder using the shortcut key <kbd>S</kbd>, moving the mouse towards the middle of the cylinder to make it smaller.
+--- /task ---
+
+--- task ---
+
+The cylinder might be added inside the sphere, so once again use the blue handle to move it upwards.
+
+--- /task ---
+
+--- task ---
+
+Resize the cylinder using the shortcut key <kbd>S</kbd>.
 
 ![Resize cylinder](images/blender-resize-cylinder.png)
 
-+ Move the cylinder on top of the snowman's head using the blue, green, and red move handles.
+--- /task ---
 
-+ Render to see what the snowman looks like. For example:
+--- task ---
 
-![Render the snowman](images/blender-render-snowman-1.png)
+Move the cylinder on top of your snowman's head using the blue move handle.
+
+--- /task ---
+
+--- task ---
+
+Render to see what your snowman looks like.
+
+![The rendered snowman](images/blender-render-snowman.png)
+
+--- /task ---
+
+--- save ---
